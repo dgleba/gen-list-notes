@@ -1,0 +1,6 @@
+{
+	"domain": "davidg.ml",
+	"certUrl": "https://acme-v01.api.letsencrypt.org/acme/cert/034e5e5772fa66ffdfee011ad3dc37e6bd58",
+	"certStableUrl": "",
+	"accountRef": "https://acme-v01.api.letsencrypt.org/acme/reg/47515478"
+}

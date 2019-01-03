@@ -1,0 +1,22 @@
+{
+	"Email": "dgleba@gmail.com",
+	"Registration": {
+		"body": {
+			"resource": "reg",
+			"id": 47515478,
+			"key": {
+				"kty": "EC",
+				"crv": "P-384",
+				"x": "HXMQ1S6mEJ5kxHNcJbe8ajCm_RNjY-g5lzeIIWZtP-U97O6GoEwhckB3DXXUZ-pI",
+				"y": "gCO71h5iw6YCcMQfJyyE6qPp7sl1BHA5oWN47NBjejoRmHZs7odhj06YnAW47dz0"
+			},
+			"contact": [
+				"mailto:dgleba@gmail.com"
+			],
+			"agreement": "https://letsencrypt.org/documents/LE-SA-v1.2-November-15-2017.pdf"
+		},
+		"uri": "https://acme-v01.api.letsencrypt.org/acme/reg/47515478",
+		"new_authzr_uri": "https://acme-v01.api.letsencrypt.org/acme/new-authz",
+		"terms_of_service": "https://letsencrypt.org/documents/LE-SA-v1.2-November-15-2017.pdf"
+	}
+}
